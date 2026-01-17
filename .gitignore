@@ -35,5 +35,5 @@ venv/
 *.png
 *.jpg
 
-# Ignore internal files
-_internal/
+# # Ignore internal files
+# _internal/
