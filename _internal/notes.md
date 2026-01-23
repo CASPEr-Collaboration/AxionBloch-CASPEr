@@ -600,10 +600,16 @@ $s(t) = \left(1 - \exp{\left(\dfrac{-t}{\frac{1}{2}T_2^*}\right)}\right)^{1/2} \
 
 to describe the signal. 
 
-Beside, for the sack of simplicity in numerical calculations, we can use this formula to approximate the signal under any circumstances
+Besides, for the sack of simplicity in numerical calculations, we can use this formula to approximate the signal under any circumstances
 
 $s(t) = \left(1 - \exp{\left(\dfrac{-t}{x T_2^*}\right)}\right)^{x} \gamma B T_2^* \left(\dfrac{\tau_a}{\tau_a + T_2^*}\right)^{1/2}\,.$
 
 ## 2025-12-??
 
 ### test detuning?
+
+
+## 2026-01-23
+
+todo: connect our tests to physical experiments, with real coupling stength for example. 
+
